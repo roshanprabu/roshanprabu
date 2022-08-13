@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan Prabu</h1>
-<h3 align="center">A passionate student developer from Tamil Nadu, 🇮🇳.</h3>
+<h3 align="center">A passionate student developer from Tamil Nadu, India 🇮🇳.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanprabu&label=Profile%20views&color=0e75b6&style=flat" alt="roshanprabu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanprabu" alt="roshanprabu" /></a> </p>
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python Web Development**
 
-- 🔭 I’m currently working on **HTML, CSS & JavaScript Web Development**
+- 👨‍💻 Visit my projects at [https://www.roshanprabu.me](https://www.roshanprabu.me)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript & Python**
-
-- 👨‍💻 All of my projects are available at [https://www.roshanprabu.me](https://www.roshanprabu.me)
-
-- 📫 How to reach me **roshan@roshanprabu.me**
+- 📫 Reach me at **roshan@roshanprabu.me**
 
 - 📄 Know about my experiences [https://www.roshanprabu.me](https://www.roshanprabu.me)
 
