@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my projects at [https://www.roshanprabu.me](https://www.roshanprabu.me)
 
-- 📫 Reach me at **roshan@roshanprabu.me**
+- 📫 Reach me at **roshanprabu@icloud.com**
 
 - 📄 Know about my experiences [https://www.roshanprabu.me](https://www.roshanprabu.me)
 
