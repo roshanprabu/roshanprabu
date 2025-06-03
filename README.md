@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Prabu</h1>
 <h3 align="center"> Undergraduate student. Cybersecurity, RPA Enthusiast.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanprabu&theme=algolia" alt="roshanprabu" /></a>
-</p>
 
-<p align="center">
-  <a href="https://twitter.com/roshanprabu_" target="blank"><img src="https://img.shields.io/twitter/follow/roshanprabu_?logo=twitter&style=for-the-badge" alt="roshanprabu_" /></a>
-</p>
 
 ---
 
@@ -40,7 +34,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+ <div style="background-color: white; display: inline-block; padding: 5px; border-radius: 4px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+</div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
